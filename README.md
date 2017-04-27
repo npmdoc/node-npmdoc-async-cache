@@ -1,6 +1,6 @@
 # npmdoc-async-cache
 
-#### api documentation for  [async-cache (v1.1.0)](https://github.com/isaacs/async-cache#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-async-cache.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-async-cache) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-async-cache.svg)](https://travis-ci.org/npmdoc/node-npmdoc-async-cache)
+#### basic api documentation for  [async-cache (v1.1.0)](https://github.com/isaacs/async-cache#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-async-cache.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-async-cache) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-async-cache.svg)](https://travis-ci.org/npmdoc/node-npmdoc-async-cache)
 
 #### Cache your async lookups and don't fetch the same thing more than necessary.
 
@@ -69,7 +69,8 @@
     "scripts": {
         "test": "standard && tap test/*.js --cov"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
